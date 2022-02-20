@@ -1,0 +1,126 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.container .hh{
+    margin-left:75px;
+
+}
+
+.row{
+    align-items: center;
+     margin-left:60px; 
+margin-right:60px; 
+margin-bottom: 100px;
+}
+.row .div1 {
+    /* margin-left:50px; */
+
+    margin-right: 70px;
+
+}
+.row .div1 .pdiv1{
+    font-size:20px;
+    
+    margin-left:55px;
+    }
+    .row .div1 .pdiv11{
+        font-size:20px;
+        margin-left:90px;
+    color: #CC0033;
+    }
+
+/* ============================================ */
+.row .div2 {
+
+    margin-right: 70px;
+
+}
+.row .div2 .pdiv2{
+
+    font-size:20px;
+    margin-left:95px;
+
+}
+.row .div2 .pdiv22{
+    font-size:20px;
+    margin-left:90px;
+    color: #CC0033;
+
+
+}
+
+/* ======================================== */
+
+
+.row .div3 .pdiv3{
+
+    font-size:20px;
+    margin-left:90px;
+
+}
+.row .div3 .pdiv33{
+    font-size:20px;
+    margin-left:90px;
+    color: #CC0033;
+
+
+}
+
+/* ========================================================= */
+.row .div4{
+    margin-right: 140px;
+
+}
+
+.row .div5{
+    margin-right: 60px;
+
+}
+.row .div6 .mm1{
+    margin-bottom: 20px;
+}
+/* ==================================================== */
+.row .div7{
+    background-color: rgb(228, 222, 222);
+    margin-left:20px ;
+    margin-right:20px ;
+    border-bottom: 3px solid #CC0033;
+}
+
+.row .div8{
+    background-color: rgb(228, 222, 222);
+    margin-left:20px ;
+    margin-right:20px ;
+    border-bottom: 3px solid #CC0033;
+
+
+}
+.row .div9{
+    background-color: rgb(228, 222, 222);
+    margin-left:20px ;
+    margin-right:20px ;
+    border-bottom: 3px solid #CC0033;
+
+}
+.row .div10{
+    width:500px;
+}
+.row .div10 h1{
+    width:500px;
+
+}
+.row .div10 p{
+    font-size:15px;
+    width:500px;
+    ma
+}
+
+.row .justify{
+    margin-left:50px;
+    margin-right:50px;
+}
+.row .div11{
+    margin-right:50px;
+}
